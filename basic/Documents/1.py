@@ -10,7 +10,7 @@ a1.append('E')
 print(a1)
 
 # 0번째 삭제
-del(a1[0])# 모두 삭제
+del(a1[0])
 print(a1)
 
 # 맨 뒤 삭제
